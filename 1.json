@@ -1,0 +1,25 @@
+{
+"Biodata":{
+    "Nama":"Indra Kurniadi",
+    "Age":"23",
+    "Address":"Jl.Perkasa No.24",
+    "Hobbies":["Futsal","Basket","Voly","Music"],
+    "Is_Married":false,
+    "list_School":{
+        "SMA":"SMAN 10 Pekanbaru",
+        "Major":"IPA",
+        "Year in":"2011",
+        "Year Out":"2014",
+        
+        "UNIVERSITY":"Politeknik Caltex Riau",
+        "Major":"Engineering Electronics",
+        "Year in":"2014",
+        "Year out":"2018",
+    },
+    "Skills ":{
+        "Electronic":"Adcvanced","Photoshop":"Beginner","CorelDraw":"Beginner",
+        "Cisco":"Beginner","Mikrotik":"Beginner","Programing":"Beginner",    
+    },
+    "interest_in_coding":true,}
+
+}
